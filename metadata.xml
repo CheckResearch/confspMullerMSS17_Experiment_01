@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:creator>mKetzer</dc:creator>
+  <dc:title>Experiment for "conf/sp/MullerMSS17"</dc:title>
+  <dc:subject>Reproduction of the work in "SoK: Exploiting Network Printers." by "Jens Müller 0007, Vladislav Mladenov, Juraj Somorovsky, Jörg Schwenk"</dc:subject>
+  <dc:description>Your Input Here</dc:description>
+  <dc:date>2019-10-21T08:34:28.0838731</dc:date>
+  <dc:type>Reproduction</dc:type>
+  <dc:language>English</dc:language>
+  <dc:identifier>https://checkresearch.org/Experiment/View/139d4225-319a-4655-86d7-9b2a8f71c85b</dc:identifier>
+  <dc:identifier>https://github.com/CheckResearch/confspMullerMSS17_Experiment_01</dc:identifier>
+  <dc:relation>10.1109/SP.2017.47</dc:relation>
+  <dc:relation>conf/sp/MullerMSS17</dc:relation>
+</metadata>
