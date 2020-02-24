@@ -65,6 +65,7 @@ The following table outlines which attacks worked using which printer programmin
 | cross                     |      ✔        |   ✘  |  ✘ |
 | replace                   |      ✔        |   ✔  |  ✔ |
 | selftest                  |      ✘        |   ✔  |  ✘ |
+
 There are many commands available for interacting with the printers file system. Because they all worked as expected they will not be listed individually. These commands can be used to tamper with files on the printer, gain information on what is being stored there and even copy malicious files onto the printers file system.
 
 Both printers tested were vulnerable to the following kinds of attacks using the following printer programming language: 
